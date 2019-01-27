@@ -1,4 +1,4 @@
-# JavaScript and DOM Manipulation
+# Creating Dynamic Tables with Javascript
 
 ![nasa](images/nasa.jpg)
 ## Background
